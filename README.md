@@ -1,32 +1,23 @@
 # 👋 Hi, I'm Andrew!
 
-### 👨‍💻 Frontend Developer | 📱 Tech Enthusiast | 💡 Lifelong Learner
+#### 👨‍💻 Frontend Developer | 📱 Tech Enthusiast | 💡 Lifelong Learner
 
 ---
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** React, React Native, Next.js
-- **Tools:** Git, WebStorm, VS Code, Figma, Expo
+- **Tools:** Git, WebStorm, VS Code, Figma
 - **Databases:** Firebase, MongoDB
-- **Other:** REST APIs, Responsive Design, Ionic
+- **Other:** REST APIs, Responsive Design
 
----
 
 ## 🚀 Current Projects
-- **[Whirl: Event Discovery App]**
-  - Helping users find events that inspire them to connect.
-  - Tech stack: React Native, Expo, and Ionic icons.
-  - Working on: Event creation, social features, and sharing options.
+- **Predictify: Spotify Song Recommendations**
+  - Personalized song recommendations based on Spotify listening history.
+  - Tech stack: Angular, Python, Spotify Web API
+  - Methods: Clustering, collaborative filtering, and data visualization.
 
----
-
-## ✨ Fun Facts
-- Passionate about building engaging UI/UX.
-- Currently exploring advanced animations and scroll effects in web and mobile apps.
-- Always experimenting with new tech and design trends.
-
----
 
 ## 🌐 Let's Connect
 - **LinkedIn:** [https://linkedin.com/andrewliu26]
@@ -34,6 +25,4 @@
 - **Portfolio:** [https://andrewliu.dev]
 
 ---
-
-## ⚡ Quick Overview
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewliu26&show_icons=true)
