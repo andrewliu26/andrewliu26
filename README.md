@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-I'm a new grad from Boston University with a passion for clean design and software development. I enjoy working across the stack — from designing intuitive frontends to building scalable backend systems — and I’m always exploring new tools and technologies.
+I'm a new grad from Boston University with a passion for software development and clean UI/UX design. I enjoy working across the stack — from designing intuitive frontends to building scalable backend systems — and I’m always exploring new tools and technologies.
 
 ### Programming Languages
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
