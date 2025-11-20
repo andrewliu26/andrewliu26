@@ -4,7 +4,7 @@
 
 ## Hi, I'm Andrew
 
-I’m a developer and designer passionate about creating thoughtful, human-centered digital experiences. With a background in computer science and a love for art and design, I enjoy bridging creativity and technology, turning ideas into intuitive, inclusive interfaces that make an impact. Feel free to message me at andrewliucs@gmail.com or on LinkedIn – I'd love to connect!
+I’m a developer and designer passionate about creating thoughtful, human-centered digital experiences. With a background in computer science and a love for art and design, I enjoy bridging creativity and technology, turning ideas into intuitive, inclusive interfaces that make an impact. Feel free to message me at andrewliucs@gmail.com or on [LinkedIn](https://www.linkedin.com/in/andrewliu26/) – I'd love to connect!
 
 Σ(￣。￣ﾉ)ﾉ
 
